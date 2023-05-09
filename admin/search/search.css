@@ -1,0 +1,20 @@
+/* Add a black background color to the top navigation bar */
+.topnav {
+   
+    background-color: #835a80;
+    color: #c13fb6;
+    border-radius: 5px;
+    border-color: #1d011b;
+    mask-border-width: 2px;
+    padding-left: 20px;
+    height: 10px;
+    width: 20px;
+  }
+
+  .btn btn-primary{
+
+    align-items: flex-end;
+  }
+  
+  
+  

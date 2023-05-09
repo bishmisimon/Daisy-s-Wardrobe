@@ -1,0 +1,61 @@
+.boxstyle{
+    background-color: rgb(196, 54, 218);
+    margin:auto;
+    width: 400px;
+   
+    
+    padding: 20px;
+    box-sizing: border-box;
+    
+}
+
+#button{
+
+    padding: 10px;
+    width: 200px;
+    color: rgb(238, 213, 213);
+    background-color: rgb(55, 5, 67);
+    border: none;
+    border-radius: 3px;
+    font-size: 20px;
+  
+}
+
+#text{
+    height: 25px;
+    border-radius: 5px;
+    padding: 4px;
+    border: solid thin #aaa;
+    width:100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-decoration: black;
+}
+
+
+.boxtwo{
+    background-color: rgb(98, 20, 193);
+    margin:auto;
+    width:800px;
+    height: 1000px;
+   
+    
+    padding: 20px;
+    box-sizing: border-box;
+
+}
+
+p{
+
+    font-weight: 300;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align: left;
+    text-decoration: beige;
+    color: aliceblue;
+
+}
+
+h1{
+    color: aliceblue;
+}
